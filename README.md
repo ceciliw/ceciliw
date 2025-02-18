@@ -1,6 +1,6 @@
 #### Olá!
-Meu nome é Cecília, tenho 20 anos e sou estudante no sexto período de Ciência da Computação na Universidade Estadual da Paraíba, campus de Patos.
-  
+Meu nome é Cecília, tenho 21 anos e atualmente estou cursando o sétimo período de Ciência da Computação na Universidade Estadual da Paraíba, campus de Patos.
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ceciliw&theme=github-dark-blue)](https://git.io/streak-stats)
 
